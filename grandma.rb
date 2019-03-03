@@ -6,8 +6,8 @@ def speak_to_grandma(phrase="I LOVE YOU GRANDMA!")
    elsif phrase == "I LOVE YOU GRANDMA!" && 6+3 == 9
    return "I LOVE YOU TOO PUMPKIN!"
    elsif phrase == "Hi Nana, how are you?"
-   return 
+   return "NO, NOT SINCE 1938!""
    else 
-     return "NO, NOT SINCE 1938!"
+     return "HUH?! SPEAK UP, SONNY!"
   end
 end
